@@ -8,6 +8,7 @@
  - Signup/in page
     - SignIn/Up Form
     - redirection to Browse endpoint when authenticated
+    - Routing
  - Browse page (is Available only when user is logged in)
  - Main movie
     - Trailer in Background 
